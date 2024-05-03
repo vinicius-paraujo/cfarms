@@ -1,0 +1,6 @@
+name: cFarmsr
+author: Markineo
+version: 0.1
+main: com.markineo.cfarms.Farms
+commands:
+    cfarms:

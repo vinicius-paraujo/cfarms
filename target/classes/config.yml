@@ -1,0 +1,21 @@
+#          8888888888                                         
+#          888                                                
+#          888                                                
+# .d8888b 8888888     8888b.  888d888 88888b.d88b.  .d8888b  
+# d88P"    888            "88b 888P"   888 "888 "88b 88K      
+# 888      888        .d888888 888     888  888  888 "Y8888b. 
+# Y88b.    888        888  888 888     888  888  888      X88 
+# "Y8888P 888        "Y888888 888     888  888  888  88888P' 
+# 
+# Desenvolvido por: Markineo
+# https://github.com/vinicius-paraujo/
+
+
+growing:
+    radius: 10
+    default_speed: 0.5
+    grow_multiplier: 1
+    
+protection:
+    actived: true
+    worlds: ["Plots", "PlotFive"]
